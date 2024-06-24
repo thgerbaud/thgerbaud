@@ -18,67 +18,40 @@ Here are some ideas to get you started:
 ## Langages et outils
 
 <!-- Base -->
-[![HTML]][HTML-url]
-[![CSS]][CSS-url]
-[![JS]][JS-url]
-[![Python]][Python-url]
+<p align=center>
+  <a href="https://developer.mozilla.org/fr/docs/Web/HTML"><img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=FFFFFF" /></a>
+  <a href="https://developer.mozilla.org/fr/docs/Web/CSS"><img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=FFFFFF" /></a>
+  <a href="https://developer.mozilla.org/fr/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=1e212b" /></a>
+  <a href="https://www.python.org"><img src="https://img.shields.io/badge/Python-1e212b?style=for-the-badge&logo=python&logoColor=3776AB" /></a>
+</p>
 
 <!-- Backend -->
-[![Node]][Node-url]
-[![Express]][Express-url]
-[![Django]][Django-url]
+<p align=center>
+  <a href="https://nodejs.org/"><img src="https://img.shields.io/badge/NodeJS-FFFFFF?style=for-the-badge&logo=nodedotjs&logoColor=339933" /></a>
+  <a href="https://expressjs.com/"><img src="https://img.shields.io/badge/Express-FFFFFF?style=for-the-badge&logo=express&logoColor=000000" /></a>
+  <a href="https://www.djangoproject.com"><img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=FFFFFF" /></a>
+</p>
 
 <!-- Fontend -->
-[![Vue]][Vue-url]
-[![Vuetify]][Vuetify-url]
-[![Nuxt]][Node-url]
-[![Bootstrap]][Bootstrap-url]
+<p align=center>
+  <a href="https://vuejs.org/"><img src="https://img.shields.io/badge/Vue-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" /></a>
+  <a href="https://vuetifyjs.com/"><img src="https://img.shields.io/badge/Vuetify-000000?style=for-the-badge&logo=vuetify&logoColor=1867C0" /></a>
+  <a href="https://nuxt.com"><img src="https://img.shields.io/badge/Nuxt-1e212b?style=for-the-badge&logo=nuxtdotjs&logoColor=00DC82" /></a>
+  <a href="https://getbootstrap.com"><img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=FFFFFF" /></a>
+</p>
 
 <!-- BDD -->
-[![MongoDB]][MongoDB-url]
-[![MySQL]][MySQL-url]
-[![PostgreSQL]][PostgreSQL-url]
+<p align=center>
+  <a href="https://mongodb.com/"><img src="https://img.shields.io/badge/MongoDB-FFFFFF?style=for-the-badge&logo=mongodb&logoColor=47A248" /></a>
+  <a href="https://www.mysql.com/fr/"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=FFFFFF" /></a>
+  <a href="https://www.postgresql.org"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=FFFFFF" /></a>
+</p>
 
 <!-- Autres -->
-[![Docker]][Docker-url]
-[![Figma]][Figma-url]
+<p align=center>
+  <a href="https://www.docker.com"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=FFFFFF"></a>
+  <a href="https://www.figma.com"><img src="https://img.shields.io/badge/Figma-1e212b?style=for-the-badge&logo=figma&logoColor=F24E1E"></a>
+</p>
 
 <!-- -->
-
-[HTML]:https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=FFFFFF
-[HTML-url]:https://developer.mozilla.org/fr/docs/Web/HTML
-[CSS]:https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=FFFFFF
-[CSS-url]:https://developer.mozilla.org/fr/docs/Web/CSS
-[JS]:https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=1e212b
-[JS-url]:https://developer.mozilla.org/fr/docs/Web/JavaScript
-[Python]:https://img.shields.io/badge/Python-1e212b?style=for-the-badge&logo=python&logoColor=3776AB
-[Python-url]:https://www.python.org
-
-[Node]: https://img.shields.io/badge/NodeJS-FFFFFF?style=for-the-badge&logo=nodedotjs&logoColor=339933
-[Node-url]: https://nodejs.org/
-[Express]: https://img.shields.io/badge/Express-FFFFFF?style=for-the-badge&logo=express&logoColor=000000
-[Express-url]: https://expressjs.com/
-[Django]:https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=FFFFFF
-[Django-url]:https://www.djangoproject.com
-
-[Vue]: https://img.shields.io/badge/Vue-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D
-[Vue-url]: https://vuejs.org/
-[Vuetify]: https://img.shields.io/badge/Vuetify-000000?style=for-the-badge&logo=vuetify&logoColor=1867C0
-[Vuetify-url]: https://vuetifyjs.com/
-[Nuxt]:https://img.shields.io/badge/Nuxt-1e212b?style=for-the-badge&logo=nuxtdotjs&logoColor=00DC82
-[Nuxt-url]:https://nuxt.com
-[Bootstrap]:https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=FFFFFF
-[Bootstrap-url]:https://getbootstrap.com
-
-[MongoDB]: https://img.shields.io/badge/MongoDB-FFFFFF?style=for-the-badge&logo=mongodb&logoColor=47A248
-[MongoDB-url]: https://mongodb.com/
-[MySQL]: https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=FFFFFF
-[MySQL-url]: https://www.mysql.com/fr/
-[PostgreSQL]: https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=FFFFFF
-[PostgreSQL-url]: https://www.postgresql.org
-
-[Docker]:https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=FFFFFF
-[Docker-url]:https://www.docker.com
-[Figma]:https://img.shields.io/badge/Figma-1e212b?style=for-the-badge&logo=figma&logoColor=F24E1E
-[Figma-url]:https://www.figma.com
 
