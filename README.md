@@ -1,5 +1,3 @@
-### 👋 Bonjour
-
 <!--
 **thgerbaud/thgerbaud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,25 +12,25 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<!-- ## 📈 Contributions
 
-<p>
-  <img align=center src="https://github-readme-streak-stats.herokuapp.com?user=thgerbaud&theme=dark&locale=fr&fire=D49231&currStreakNum=D49231&currStreakLabel=D49231&ring=4C0081&hide_border=true" alt="GitHub Streak" />
-  <img align=center src="https://github-readme-stats.vercel.app/api?username=thgerbaud&hide_title=true&text_bold=false&show_icons=true&locale=fr&theme=dark&title_color=D49231&hide_border=true&icon_color=D49231&text_color=FFFFFF&ring_color=4C0081&hide=contribs" alt="Contributions GitHub" />
-</p>
+<h2 align=center> Bonjour 👋</h2>
 
-<hr> -->
+### 👨‍💻 À propos de moi
+
+📍 - Bretagne  
+🎓 - Élève ingénieur à l'ENSSAT Lannion | En stage de fin d'études  
+🎯 - Développement web  
+
+![Scoutisme, Voile, Musique, Arts manuels](/media/hobbys_banner.jpeg)
 
 ### 🛠 Langages et outils
 
 <!-- Base -->
-
 <a href="https://developer.mozilla.org/fr/docs/Web/HTML"><img alt="html" height=25px src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=FFFFFF" /></a>
 <a href="https://developer.mozilla.org/fr/docs/Web/CSS"><img alt="css" height=25px src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=FFFFFF" /></a>
 <a href="https://developer.mozilla.org/fr/docs/Web/JavaScript"><img alt="javascript" height=25px src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=1e212b" /></a>
 <a href="https://www.typescriptlang.org"><img alt="typescript" height=25px src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=FFFFFF" /></a>
 <a href="https://www.python.org"><img alt="python" height=25px src="https://img.shields.io/badge/-Python-1e212b?style=flat-square&logo=python&logoColor=3776AB" /></a>
-
 
 <!-- Backend -->
 <a href="https://nodejs.org/"><img alt="nodejs" height=25px src="https://img.shields.io/badge/NodeJS-FFFFFF?style=flat-square&logo=nodedotjs&logoColor=339933" /></a>
@@ -53,6 +51,15 @@ Here are some ideas to get you started:
 <!-- Autres -->
 <a href="https://www.docker.com"><img alt="docker" height=25px src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=FFFFFF"></a>
 <a href="https://www.figma.com"><img alt="figma" height=25px src="https://img.shields.io/badge/Figma-1e212b?style=flat-square&logo=figma&logoColor=F24E1E"></a>
-
 <!-- -->
+
+
+<!-- ## 📈 Contributions
+
+<p>
+  <img align=center src="https://github-readme-streak-stats.herokuapp.com?user=thgerbaud&theme=dark&locale=fr&fire=D49231&currStreakNum=D49231&currStreakLabel=D49231&ring=4C0081&hide_border=true" alt="GitHub Streak" />
+  <img align=center src="https://github-readme-stats.vercel.app/api?username=thgerbaud&hide_title=true&text_bold=false&show_icons=true&locale=fr&theme=dark&title_color=D49231&hide_border=true&icon_color=D49231&text_color=FFFFFF&ring_color=4C0081&hide=contribs" alt="Contributions GitHub" />
+</p>
+
+<hr> -->
 
